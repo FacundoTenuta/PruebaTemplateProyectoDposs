@@ -1,0 +1,722 @@
+[
+  {
+    "nombre": "Acero Tipo III - ADN 420",
+    "unidad_medida": "kg",
+    "costo_unitario": 121.55,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 121.55,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Hormigón elaborado H-21",
+    "unidad_medida": "m3",
+    "costo_unitario": 24830,
+    "perdida": 5,
+    "costo_perdida": 1241.5,
+    "transporte": 0,
+    "costo_unitario_final": 26071.5,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Madera para encofrados 1''",
+    "unidad_medida": "m2",
+    "costo_unitario": 822,
+    "perdida": 5,
+    "costo_perdida": 41.1,
+    "transporte": 0,
+    "costo_unitario_final": 863.1,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Hormigón elaborado H-30",
+    "unidad_medida": "m3",
+    "costo_unitario": 25960,
+    "perdida": 5,
+    "costo_perdida": 1298,
+    "transporte": 0,
+    "costo_unitario_final": 27258,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:600 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:700 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:800 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Contrabrida PEAD DN90mm",
+    "unidad_medida": "Ud",
+    "costo_unitario": 647,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 97.05,
+    "costo_unitario_final": 744.05,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "TUBO K-PROFIL DN1000 PR-54-003.11/JA L=6m Serie 3 PN=0.6 kg/cm2",
+    "unidad_medida": "m",
+    "costo_unitario": 33178.91,
+    "perdida": 2,
+    "costo_perdida": 663.58,
+    "transporte": 4976.84,
+    "costo_unitario_final": 38819.33,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1100 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1200 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1300 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1400 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1500 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1600 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1700 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1800 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:1900 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:2000 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:2100 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Cañería de Acero con zincado D:2200 mm",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Geotextil 200 g",
+    "unidad_medida": "m2",
+    "costo_unitario": 34.96,
+    "perdida": 5,
+    "costo_perdida": 1.75,
+    "transporte": 0,
+    "costo_unitario_final": 36.71,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Marco y Rejas canaleta",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Hormigón elaborado H-13",
+    "unidad_medida": "m3",
+    "costo_unitario": 17300,
+    "perdida": 2,
+    "costo_perdida": 346,
+    "transporte": 0,
+    "costo_unitario_final": 17646,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "Tapas Bocas de Tormenta",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Tapas de Bocas de Registro",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Tunel Lineer",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Materiales Varios",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 2,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Piedra p/ revestimiento canales",
+    "unidad_medida": "Tn",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Cemento Portland a granel",
+    "unidad_medida": "Tn",
+    "costo_unitario": 0,
+    "perdida": 3,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Arena",
+    "unidad_medida": "m3",
+    "costo_unitario": 2320,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 2320,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Malla de Acero Dn=4.2mm 15x15cm TIPO AM-500",
+    "unidad_medida": "Tn",
+    "costo_unitario": 110500,
+    "perdida": 1,
+    "costo_perdida": 1105,
+    "transporte": 0,
+    "costo_unitario_final": 111605,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "Antisol",
+    "unidad_medida": "lts",
+    "costo_unitario": 0,
+    "perdida": 2,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Moviliz..Desmov. e Ing. de Proyecto",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Revestimiento flexible canales",
+    "unidad_medida": "m2",
+    "costo_unitario": 0,
+    "perdida": 2,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Piedra",
+    "unidad_medida": "m3",
+    "costo_unitario": 1300,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 1300,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Cable de cobre desnudo",
+    "unidad_medida": "m",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Jabalina COPERWELD - Kit Completo.",
+    "unidad_medida": "Ud",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Morsetos. soldaduras y accesorios",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Bomba tipo FLYGT (200 l/s)",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "Tableros. sensores. interruptores. etc",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Acero galvanizado",
+    "unidad_medida": "Tn",
+    "costo_unitario": 0,
+    "perdida": 3,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Tapas Pozo de Bombeo",
+    "unidad_medida": "Kg",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Tapas Pozos de Bombas",
+    "unidad_medida": "Kg",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Colchonetas de Piedra",
+    "unidad_medida": "m3",
+    "costo_unitario": 0,
+    "perdida": 2,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Tosca",
+    "unidad_medida": "m3",
+    "costo_unitario": 0,
+    "perdida": 2,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Emulsión",
+    "unidad_medida": "lts",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Concreto Asfáltico",
+    "unidad_medida": "Tn",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "Compuertas y marco",
+    "unidad_medida": "Ud",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Válvulas tipo hongo",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Canaletas de acero inoxidable",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Válvulas mariposa c/actuador agua",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Medidores de caudal a turbina",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Válvulas mariposa c/actuador aire",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Plancha de acero 3/8¨",
+    "unidad_medida": "m2",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Soportes falso fondo",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "Boquilla tipo D20",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Sistema de venteo",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "PLC",
+    "unidad_medida": "Ud",
+    "costo_unitario": 9000,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 9000,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "VT - TUBO CLOACAL 250 X 4.9 MM 6M JEI - IRAM",
+    "unidad_medida": "m",
+    "costo_unitario": 2770.42,
+    "perdida": 2,
+    "costo_perdida": 55.41,
+    "transporte": 554.08,
+    "costo_unitario_final": 3379.91,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "PE - Tubo PEAD PE100 PN10 DN560mm x33.2mm",
+    "unidad_medida": "Ud",
+    "costo_unitario": 19753.16,
+    "perdida": 2.5,
+    "costo_perdida": 493.83,
+    "transporte": 2962.97,
+    "costo_unitario_final": 23209.97,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Cemento CPC 40",
+    "unidad_medida": "kg",
+    "costo_unitario": 10.88,
+    "perdida": 2,
+    "costo_perdida": 0.22,
+    "transporte": 0,
+    "costo_unitario_final": 11.09,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Aridos",
+    "unidad_medida": "m3",
+    "costo_unitario": 0,
+    "perdida": 0.01,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Varios",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-18"
+  },
+  {
+    "nombre": "Sensor digital",
+    "unidad_medida": "Gl",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-17"
+  },
+  {
+    "nombre": "Hidrófugo tipo epoxi",
+    "unidad_medida": "Kg",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-05"
+  },
+  {
+    "nombre": "Hidrófugo",
+    "unidad_medida": "Kg",
+    "costo_unitario": 0,
+    "perdida": 1,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-22"
+  },
+  {
+    "nombre": "Arena común",
+    "unidad_medida": "m3",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-09"
+  },
+  {
+    "nombre": "Alambre tejido x 2.5 m ancho",
+    "unidad_medida": "ml",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-04"
+  },
+  {
+    "nombre": "Parantes de hormigón",
+    "unidad_medida": "Nº",
+    "costo_unitario": 0,
+    "perdida": 5,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-01"
+  },
+  {
+    "nombre": "Válvula reguladora de presión DN 80mm - Bridada",
+    "unidad_medida": "Ud",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2022-02-14"
+  },
+  {
+    "nombre": "Válvula reguladora de presión DN 100mm - Bridada",
+    "unidad_medida": "Ud",
+    "costo_unitario": 0,
+    "perdida": 0,
+    "costo_perdida": 0,
+    "transporte": 0,
+    "costo_unitario_final": 0,
+    "fecha": "2020-01-18"
+  }
+]
